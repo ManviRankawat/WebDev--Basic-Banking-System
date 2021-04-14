@@ -1,0 +1,29 @@
+.nav-link{
+	font-size:20px;
+	font-family: bold;
+}
+.navbar-toggler{
+	background-color:red;
+}
+#topcontainer{
+  text-align: center;
+  padding: 18%;
+  font-family: 'New Tegomin', serif;
+  background-image: url("https://wallpaperaccess.com/full/2676105.jpg");
+}
+.special{
+        color: #fff;
+	font-size: 20px;
+	margin:20px;
+
+}
+.last{
+	text-align: center;
+	padding: 50px 0px;
+	background-color: #84a9ac;
+
+}
+#logo img{
+    height: 59px;
+    margin: 2px 6px;
+}
