@@ -1,2 +1,2 @@
 # WebDev-Banking-System
-The Website is created using html, script.js and css on Visual Studio Code. It performs basic transaction on the 10 dummy customer list
+This project is a simple banking transaction website developed using HTML, JavaScript (Script.js), and CSS, created in Visual Studio Code. The website provides functionality for performing basic transactions between 10 dummy customer accounts.
